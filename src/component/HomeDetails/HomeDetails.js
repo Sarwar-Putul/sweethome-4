@@ -25,6 +25,7 @@ const Details = (props) => {
                 <img src={common4} alt="common" className='details-thumb' />
             </div>
             <div className="d-flex align-items-center justify-content-between pt-3 pb-4">
+            {/* this is price of the home title and price */}
                 <h2>{title}</h2>
                 <h2>${price}</h2>
             </div>
