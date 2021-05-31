@@ -1,0 +1,37 @@
+.homecard {
+    background-color: rgba(0, 0, 0, 0.034);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .aspected-img {
+    width: 100%;
+    display: block;
+    aspect-ratio: 16 / 9 !important;
+    object-fit: cover !important;
+  }
+  
+  .homecard h3 {
+    color: var(--color-primary);
+    font-weight: 600;
+  }
+  
+  .homecard p {
+    font-size: 17px;
+    color: var(--color-text-2);
+  }
+  
+  .btn-main {
+    display: inline-block;
+    padding: 8px 20px;
+    color: var(--color-text-3);
+    background-color: var(--color-primary);
+    border: 1px solid transparent;
+    outline: none;
+  }
+  
+  .heading {
+    color: var(--color-primary);
+    font-weight: 700;
+  }
+  

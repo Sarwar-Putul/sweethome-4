@@ -1,0 +1,15 @@
+.facilitycard img {
+    width: 100px;
+    height: auto;
+  }
+  
+  .facilitycard h3 {
+    font-weight: 600;
+    color: var(--color-secondary);
+  }
+  
+  .facilitycard p {
+    font-weight: 300;
+    color: var(--color-text-2);
+  }
+  
