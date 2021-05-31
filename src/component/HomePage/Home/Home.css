@@ -1,0 +1,48 @@
+:root {
+    --font-primary: "Poppins", sans-serif;
+    --font-heading: "Alegreya Sans", sans-serif;
+  
+    --color-text-1: rgb(94, 89, 89);
+    --color-text-2: #777;
+    --color-text-3: rgb(243, 241, 241);
+    --color-primary: #289672;
+    --color-secondary: #289672;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-heading);
+  }
+  
+  p,
+  a,
+  span,
+  button,
+  input,
+  textarea,
+  *::after,
+  *::before {
+    font-family: var(--font-primary);
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+  }
+  
+  *:hover {
+    text-decoration: none;
+  }
+  
+  .container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  

@@ -1,0 +1,39 @@
+.contact-section{
+    background-color: #F1F1F1;
+    color: #363958;
+    padding: 30px 0 5px 0;
+}
+.text-clr{
+    color: #363958;
+}
+.email-box{
+    background-color: white;
+    padding: 9px 10px;
+    border: none;
+    border: 1px solid #363636;
+}
+.box{
+    margin-top: 30px;
+}
+.box a{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid #5d5d5d;
+}
+.box a:hover{
+    background-color: #289672;
+    border: none;
+}
+
+footer{
+    text-align: center;
+    color: #363958;
+    margin-top: 80px;
+}

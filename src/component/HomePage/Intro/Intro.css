@@ -1,0 +1,17 @@
+.intro {
+    background-color: var(--color-secondary);
+  }
+  
+  .intro-text {
+    color: var(--color-text-3);
+  }
+  
+  .intro-text h2 {
+    font-weight: 500;
+  }
+  
+  .intro-text p {
+    font-weight: 300;
+    font-size: 18px;
+  }
+  
