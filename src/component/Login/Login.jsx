@@ -108,7 +108,7 @@ const Login = (props) => {
 
         <div class="text-center">
           <button onClick={createAccount} className="btn-main">
-            Continue with google
+            Login With Google
           </button>
         </div>
       </div>
